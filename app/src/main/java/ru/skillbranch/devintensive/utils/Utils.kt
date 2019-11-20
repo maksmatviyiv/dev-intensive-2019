@@ -20,17 +20,7 @@ object Utils {
     {
 
     }
-    fun toInitials(firstName: String?, lastName: String?) : String {
+    fun toInitials(firstName: String?, lastName: String?) : Unit {
 
-        if (firstName == " ") {
-
-        }
-        else if(firstName == null) {
-
-        }
-        else {
-
-        }
-        return
     }
 }
